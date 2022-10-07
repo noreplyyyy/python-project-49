@@ -1,13 +1,17 @@
-from brain_games.cli import welcome_user
 from random import randint
+import prompt
+
+
+def welcome_user():
+    name = prompt.string('May I have your name? ')
+    print("Hello, " + name + "!")
+    return name
 
 
 def main():
     print("Welcome to the Brain Games!")
-    name = welcome_user()
+    welcome_user()
     nice()
-    return name
-
 def Question():
 	random_number = randint(1, 100)
 	print("Question:"+ str(random_number))
@@ -22,6 +26,7 @@ def Question():
 			correct = "yes"
 		print (f"'{answer1}' is wrong answer ;(. Correct answer was '{correct}'.")
 		print(f"Let's try again, {name}!")
+
 def nice():
 	if Question() == True:
 		Question()
