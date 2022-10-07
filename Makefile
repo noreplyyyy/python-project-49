@@ -8,7 +8,7 @@ build: #собираем
 	poetry build
 
 publish: #публикуем
-	poetry publish --dry-run/
+	poetry publish --dry-run
 
 package-install: #установка доп пакетов
 	python3 -m pip install --user dist/*.whl
