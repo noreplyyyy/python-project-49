@@ -1,10 +1,6 @@
 from prompt import string
 
 
-index = 0
-score = 3
-
-
 def logic(game):
     print("Welcome to the Brain Games!")
     name = string('May I have your name? ')
