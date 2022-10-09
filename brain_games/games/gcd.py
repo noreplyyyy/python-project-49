@@ -3,8 +3,8 @@ from random import randint
 
 
 DESCRIPTION = "Find the greatest common divisor of given numbers."
-START_NUM = 1
-END_NUM = 101
+START_NUM = 0
+END_NUM = 10
 
 
 def get_round():
