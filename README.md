@@ -15,16 +15,9 @@
 
 | Game                                                                        | Description                                             |
 |-----------------------------------------------------------------------------|---------------------------------------------------------|
-|<a href="https://asciinema.org/a/eRVKwRiS9G5Dp0YFEAHltlija">brain-even</a>   |
-|<a href="https://asciinema.org/a/Ya5PbzKqxp7o7A1F7EYYPJqat">brain-calc</a>   | "A mature full-featured Python testing tool"            |
-|<a href="https://asciinema.org/a/c13AuDzjV94L5mTtgaii4yK2f">brain-gcd</a>    |                                                         |
-|<a href="https://asciinema.org/a/zmhBdxlgIuhcIYvCADoDllMgH">brain-progression</a>|                                                     |
-|<a href="https://asciinema.org/a/L5Kzov1pdGkBxXUkQwDxtljs7">brain-prime</a>    |
+|<a href="https://asciinema.org/a/eRVKwRiS9G5Dp0YFEAHltlija">brain-even</a>   |Answer "yes" if number is even otherwise answer "no".    |
+|<a href="https://asciinema.org/a/Ya5PbzKqxp7o7A1F7EYYPJqat">brain-calc</a>   |What is the result of the expression?                    |
+|<a href="https://asciinema.org/a/c13AuDzjV94L5mTtgaii4yK2f">brain-gcd</a>    |Find the greatest common divisor of given numbers.       |
+|<a href="https://asciinema.org/a/zmhBdxlgIuhcIYvCADoDllMgH">brain-progression</a>|What number is missing in the progression?           |
+|<a href="https://asciinema.org/a/L5Kzov1pdGkBxXUkQwDxtljs7">brain-prime</a>  |Answer "yes" if given number is prime. Otherwise answer "no".|
 
-
-
-
-<h4><a href="https://asciinema.org/a/jI1Vb92M909QklLZ4Litlmu92">brain-even</a></h4>
-<h4><a href="https://asciinema.org/a/Ya5PbzKqxp7o7A1F7EYYPJqat">brain-calc</a></h4>
-<h4><a href="https://asciinema.org/a/c13AuDzjV94L5mTtgaii4yK2f">brain-gcd</a></h4>
-<h4><a href="https://asciinema.org/a/zmhBdxlgIuhcIYvCADoDllMgH">brain-progression</a></h4>
