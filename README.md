@@ -4,7 +4,7 @@
 [![Maintainability](https://api.codeclimate.com/v1/badges/ae622f279bc49ff6815b/maintainability)](https://codeclimate.com/github/noreplyyyy/python-project-49/maintainability)
 ### How to install:
 
-__python3 -m pip install --user git+https://github.com/invercargill12/python-project-lvl1.git__
+<em>python3 -m pip install --user git+https://github.com/invercargill12/python-project-lvl1.git</em>
 
 ### Links:
 
