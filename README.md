@@ -2,7 +2,8 @@
 
 [![Github Actions Status](https://github.com/noreplyyyy/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/noreplyyyy/python-project-49/actions)
 [![Maintainability](https://api.codeclimate.com/v1/badges/ae622f279bc49ff6815b/maintainability)](https://codeclimate.com/github/noreplyyyy/python-project-49/maintainability)
-
+### install
+<mark>python3 -m pip install --user git+https://github.com/invercargill12/python-project-lvl1.git</mark>
 
 ### Links
 
