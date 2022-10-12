@@ -1,8 +1,10 @@
-### Hexlet tests and linter status:
+# Hexlet tests and linter status:
 
-[![Actions Status](https://github.com/noreplyyyy/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/noreplyyyy/python-project-49/actions)
-<a href="https://codeclimate.com/github/noreplyyyy/python-project-49/maintainability"><img src="https://api.codeclimate.com/v1/badges/ae622f279bc49ff6815b/maintainability" /></a>
-This project was built using these tools:
+[![Github Actions Status](https://github.com/noreplyyyy/python-project-49/workflows/hexlet-check/badge.svg)](https://github.com/noreplyyyy/python-project-49/actions)
+[![Maintainability](https://api.codeclimate.com/v1/badges/ae622f279bc49ff6815b/maintainability)]https://codeclimate.com/github/noreplyyyy/python-project-49/maintainability)
+
+
+
 
 | Tool                                                                        | Description                                             |
 |-----------------------------------------------------------------------------|---------------------------------------------------------|
@@ -20,3 +22,6 @@ This project was built using these tools:
 <h4><a href="https://asciinema.org/a/c13AuDzjV94L5mTtgaii4yK2f">brain-gcd</a></h4>
 <h4><a href="https://asciinema.org/a/zmhBdxlgIuhcIYvCADoDllMgH">brain-progression</a></h4>
 
+# python-package
+
+[![Github Actions Status](https://github.com/hexlet-boilerplates/python-package/workflows/Python%20CI/badge.svg)](https://github.com/hexlet-boilerplates/python-package/actions)
