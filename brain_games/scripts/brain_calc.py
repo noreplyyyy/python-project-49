@@ -1,14 +1,10 @@
 from brain_games.logic import logic
-from brain_games.games import even
+from brain_games.games import calc
 
 
 def main():
-    logic(even)
+    logic(calc)
 
 
 if __name__ == '__main__':
     main()
-
-
-
-

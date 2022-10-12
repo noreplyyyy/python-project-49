@@ -1,14 +1,10 @@
 from brain_games.logic import logic
-from brain_games.games import even
+from brain_games.games import prime
 
 
 def main():
-    logic(even)
+    logic(prime)
 
 
 if __name__ == '__main__':
     main()
-
-
-
-
