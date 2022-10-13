@@ -1,11 +1,17 @@
 [tool.poetry]
 name = "hexlet-code"
 version = "0.1.0"
-description = ""
-authors = ["Your Name <you@example.com>"]
+description = "Brain Games: the collection of 5 math mini-games"
+authors = ["Arkadiy Lazorskiy <enoreply@mail.ru>"]
+repository = "https://github.com/noreplyyyy/python-project-49"
 readme = "README.md"
 packages = [
   { include = "brain_games" },
+]
+classifiers = [
+    "License :: Free for non-commercial use",
+    "Natural Language :: English",
+    "Programming Language :: Python :: 3.8"
 ]
 
 [tool.poetry.dependencies]
