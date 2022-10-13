@@ -17,9 +17,9 @@
 
 | Game                                                                        | Description                                             |
 |-----------------------------------------------------------------------------|---------------------------------------------------------|
-|<a href="https://asciinema.org/a/eRVKwRiS9G5Dp0YFEAHltlija">brain-even</a>   |Have to check is number is even                          |
-|<a href="https://asciinema.org/a/Ya5PbzKqxp7o7A1F7EYYPJqat">brain-calc</a>   |Calculating the result of operation between two numbers. |
-|<a href="https://asciinema.org/a/c13AuDzjV94L5mTtgaii4yK2f">brain-gcd</a>    |Finding the greatest common divider.                     |
-|<a href="https://asciinema.org/a/zmhBdxlgIuhcIYvCADoDllMgH">brain-progression</a>|Finding skipped number in arithmetic progression     |
-|<a href="https://asciinema.org/a/L5Kzov1pdGkBxXUkQwDxtljs7">brain-prime</a>  |Checking if number is prime.                             |
+|<a href="https://asciinema.org/a/fpKrGVimHQZWQklQUFFCCKRYm">brain-even</a>   |Have to check is number is even                          |
+|<a href="https://asciinema.org/a/lDDQRdSFqxbqOYwzgxzKn3wPv">brain-calc</a>   |Calculating the result of operation between two numbers. |
+|<a href="https://asciinema.org/a/GWFzCKrUWTN1qIElfrh0ioBXr">brain-gcd</a>    |Finding the greatest common divider.                     |
+|<a href="https://asciinema.org/a/hkWETJBdFblmuHwrVfMrJJ3ms">brain-progression</a>|Finding skipped number in arithmetic progression     |
+|<a href="https://asciinema.org/a/NyRjSSDAN40WDcb1UrBV9TN4i">brain-prime</a>  |Checking if number is prime.                             |
 
