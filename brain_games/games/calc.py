@@ -10,7 +10,7 @@ def get_round():
     num2 = randint(START_NUM, END_NUM)
     operation = choice(['*', '+', '-'])
     correct_answer = str(sum_counter(num1, operation, num2))
-    question = f"{num1}{operation}{num2}"
+    question = f"{num1} {operation} {num2}"
     return question, correct_answer
 
 
