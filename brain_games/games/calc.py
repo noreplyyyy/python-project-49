@@ -1,8 +1,9 @@
-from random import randint,choice
+from random import randint, choice
 
 DESCRIPTION = ("What is the result of the expression?")
 START_NUM = 1
 END_NUM = 101
+
 
 def get_round():
     num1 = randint(START_NUM, END_NUM)

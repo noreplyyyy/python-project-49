@@ -1,4 +1,4 @@
-from random import randint,choice,randrange
+from random import randint
 
 
 DESCRIPTION = "What number is missing in the progression?"
@@ -12,9 +12,9 @@ START_RANDOM = 0
 
 
 def get_round():
-    start = randint(START_LOW,START_LIMIT)
-    count = randint(COUNT_LOW,COUNT_LIMIT)
-    step = randint(STEP_LOW,STEP_LIMIT)
+    start = randint(START_LOW, START_LIMIT)
+    count = randint(COUNT_LOW, COUNT_LIMIT)
+    step = randint(STEP_LOW, STEP_LIMIT)
     end_progression = start + step * count
     progression = list(range(start, end_progression, step))
     random_number = randint(START_RANDOM, count - 1)
@@ -22,6 +22,6 @@ def get_round():
     progression[random_number] = '..'
     question = ""
     for number in progression:
-        question = question + str(number)+ " "
+        question = question + str(number) + " "
     question = str(question.strip())
     return question, correct_answer
