@@ -2,6 +2,7 @@ from prompt import string
 
 ROUNDS_COUNT = 3
 
+
 def logic(game):
     print("Welcome to the Brain Games!")
     name = string('May I have your name? ')

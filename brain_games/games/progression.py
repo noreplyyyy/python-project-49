@@ -10,7 +10,6 @@ STEP_MIN = 2
 STEP_MAX = 5
 
 
-
 def get_round():
     start = randint(START_MIN, START_MAX)
     count = randint(COUNT_MIN, COUNT_MAX)

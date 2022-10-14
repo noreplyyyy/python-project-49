@@ -15,5 +15,6 @@ def get_round():
         correct_answer = 'no'
     return question, correct_answer
 
+
 def is_even(random_number):
     return random_number % 2 == 0
