@@ -9,13 +9,15 @@ END_NUM = 15
 def get_round():
     num1 = randint(START_NUM, END_NUM)
     question = num1
-    if num1 < 2:
-        correct_answer = "no"
-        return question, correct_answer
-    for i in range(2, int(num1 ** 0.5 + 1)):
-        if num1 % i == 0:
-            correct_answer = "no"
-            return question, correct_answer
+    if is_prime(num1):
+        correct_answer = 'yes'
     else:
-        correct_answer = "yes"
-        return question, correct_answer
+        correct_answer = 'no'
+    question = num1
+    return question, correct_answer
+
+def is_prime(num1):
+    for i in range(2, (num1//2)+1):
+        if num1 % i == 0:
+            return False
+    return True

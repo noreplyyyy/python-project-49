@@ -1,5 +1,6 @@
 from prompt import string
 
+ROUNDS_COUNT = 3
 
 def logic(game):
     print("Welcome to the Brain Games!")
@@ -7,8 +8,7 @@ def logic(game):
     print(f'Hello, {name}!')
     print(game.DESCRIPTION)
     index = 0
-    score = 3
-    while index < score:
+    while index < (ROUNDS_COUNT):
         question, correct_answer = game.get_round()
         print(f'Question: {question}')
         answer = string('Your answer: ')

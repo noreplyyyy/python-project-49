@@ -9,12 +9,12 @@ def get_round():
     num1 = randint(START_NUM, END_NUM)
     num2 = randint(START_NUM, END_NUM)
     operation = choice(['*', '+', '-'])
-    correct_answer = str(sum_counter(num1, operation, num2))
+    correct_answer = str(result(num1, operation, num2))
     question = f"{num1} {operation} {num2}"
     return question, correct_answer
 
 
-def sum_counter(num1, operation, num2):
+def result(num1, operation, num2):
     if operation == '*':
         result = num1 * num2
     elif operation == '+':
